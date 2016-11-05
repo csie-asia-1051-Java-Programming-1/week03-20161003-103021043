@@ -64,4 +64,3 @@ public class hw02_103021043 {
 		System.out.print("正數有"+x+"個　"+"負數有"+y+"個　"+"零有"+z+"個　");
 	   }  
 	}
-
